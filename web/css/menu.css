@@ -1,0 +1,22 @@
+#menu ul
+{
+    list-style-type: none;
+    //margin: 0px;
+}
+#menu ul li
+{
+    float: left;
+    margin-left: 150px;
+}
+#menu ul li a
+{
+    font-size: 25px;
+    margin-top: 10px;
+    display: block;
+    text-decoration: none;
+    color:white;
+}
+#menu ul li :hover
+{
+    color: aqua;
+}

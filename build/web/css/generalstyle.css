@@ -1,0 +1,72 @@
+body
+{
+    background-image: url("../images/pic4.jpg");
+    background-size: 100% 100%;
+}
+#wrapper
+{
+    height: 2053px;
+    width: 1000px;
+    margin: 0 auto;
+    border-radius: 20px;
+    //background: aquamarine;
+}
+#menu
+{
+    height: 50px;
+    width: 100%;
+    border-radius: 20px 20px 0px 0px;
+    background: #3B5998;
+}
+#slider
+{
+    height: 590.5px;
+    width: 100%;
+    background-color: lightgrey;
+    overflow: hidden;
+}
+#registration
+{
+    height: 656px;
+    width: 100%;
+    border-top: 0.3px solid deepskyblue;// black;
+    background-image: url("../images/bigimg2.jpg");
+    background-size: 100% 100%;
+}
+#login
+{
+    height: 656px;
+    width: 100%;
+    border-top: 0.2px solid #1da1f2;//black;
+    background-image: url("../images/bigimg3.jpg");
+    background-size: 100% 100%;
+}
+#footer
+{
+    height: 100px;
+    width: 100%;
+    background-color: #4267b2;//black;//transparent;// #3B5998;
+    border-radius: 0px 0px 20px 20px;
+}
+#lfooter
+{
+    height: 100px;
+    width: 35%;
+    padding-left: 5%;
+    float: left;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    border-radius: 0px 0px 0px 20px;
+}
+#rfooter
+{
+    height: 100px;
+    width: 60%;
+    float: left;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    //padding-top: 10px;
+    border-radius: 0px 0px 20px 0px;
+}

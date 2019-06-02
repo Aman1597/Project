@@ -1,0 +1,28 @@
+SMAP
+postanswer_jsp.java
+JSP
+*S JSP
+*F
++ 0 postanswer.jsp
+userzone/postanswer.jsp
++ 1 userheader.jsp
+userzone/userheader.jsp
++ 2 userfooter.jsp
+userzone/userfooter.jsp
+*L
+5:52
+7,7:54
+13,54:61
+1#1,16:115
+17,3:132
+19:135
+20:136,3
+21,3:139
+24,9:143
+32:152
+33:153,3
+34,2:156
+66#0,19:158
+1#2,8:177
+84#0,8:185
+*E
