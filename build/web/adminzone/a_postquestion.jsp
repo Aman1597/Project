@@ -132,7 +132,7 @@ else
                         %>
                         <tr>
                             <td style="width:5%;"><%=rs.getInt(1)%></td>
-                            <td style="width:370px;display: inline-block;overflow: scroll;"><%=rs.getString(2)%></td>
+                            <td style="width:370px;display: inline-block;overflow: auto;"><%=rs.getString(2)%></td>
                             <td style="width:17%;"><%=rs.getString(3)%></td>
                             <td style="width:12%;"><%=rs.getString(4)%></td>
                             <td style="width:12%;"><a href="a_postanswer.jsp?qid=<%=rs.getInt(1)%>">Post</a></td>
